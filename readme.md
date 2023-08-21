@@ -18,7 +18,7 @@ This project showcases an interactive and draggable navigation bar with animated
 
 You can experience the interactive navigation bar and its features by visiting the live demo link:
 
-[View Live Demo](https://codepen.io/ajmal-shaikh/pen/gOZbgMe)
+[View Live Demo](https://codepen.io/ajmal-shaikh/pen/BavyQJd)
 
 Please note that this project is intended for educational purposes and provides a template for creating similar interactive elements on websites.
 
